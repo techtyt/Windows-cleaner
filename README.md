@@ -21,5 +21,7 @@ It is ok to ignore it, you can get better results if you close all apps
 
 Why choose windows cleaner
 1.Cleans many logs and unwanted files
+
 2.Does not clean the Windows registry, to avoid risking your computer
+
 3.Customize and add/remove functionaltiy to the app because it is a .bat file

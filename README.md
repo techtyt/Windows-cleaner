@@ -25,6 +25,6 @@ Why choose windows cleaner
 
 2.Does not clean the Windows registry, to avoid risking your computer
 
-3.Customize and add/remove functionaltiy to the app because it is a .bat file
+3.Customize and add/remove functionality to the app because it is a .bat file
 
 4.Trust,anyone can see the code of the.bat file

@@ -1,3 +1,5 @@
+# USE THIS AT YOUR OWN RISK
+
 click on clean.bat
 run it as an administrator (important)
 it will start cleaning
@@ -5,7 +7,7 @@ the screen will be black for some time and will be back to normal
 I recomend closing all apps and kill microsoft office and Nvidia process if you know how to do it
 
 
-Q&A
+# Q&A
 
 why is there another file 2.bat?
 it will clear event viewer logs, during devlopment of this app it merging event.bat and clean.bat had some problems so there a 2 bat files
